@@ -1,6 +1,6 @@
 package sintaxe_variavel_e_fluxo;
 
-public class TestaVariaveis { // Classe Testa Variaveis
+public class TestaVariaveisInteiros { // Classe Testa Variaveis
 	// Metodo main
 	public static void main(String[] args) {
 

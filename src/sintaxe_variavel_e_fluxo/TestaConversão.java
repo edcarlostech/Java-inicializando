@@ -44,7 +44,7 @@ public class TestaConversão {
 		
 		// Tem também o float
 		float pontoflutuante = 3.14f;
-		System.out.println(pontoflutuante);
+		System.out.println("Ed este é o ponto flutuante: "+pontoflutuante);
 		//Focar no double, int e long
 	}
 
